@@ -1,0 +1,9 @@
+{
+  "name": "swoseoul",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+			"scrape": "ts-node script/scrape"
+  },
+  "license": "WTFPL"
+}
